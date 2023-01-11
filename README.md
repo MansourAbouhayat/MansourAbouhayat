@@ -6,13 +6,13 @@
 I'm Mansour. A freelance Web  & Mobile  Developer from Meknes, Morocco. I design and develop websites & apps , landing pages and applications for startups and enterprises. 
      <br><br>Contact me on <a href="https://twitter.com/MansourAbouhayat">Twitter</a> or <a href="mailto&#58;AbouahayatMansour@gmail.com">Send an Email</a>
   </samp>
-  <center>
+
 <h3 align="left" >Support:</h3>
 <p ><a href="https://www.buymeacoffee.com/MansourCoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nourdinekn" /></a></p></center>
 
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=MansourAbouhayat" alt="Visitors Counter">
-</p>
+</p>  <center>
 <!--
 **MansourAbouhayat/MansourAbouhayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
